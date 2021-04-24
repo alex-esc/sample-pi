@@ -2,6 +2,19 @@
 
 The sounds of the Sonic Pi software on a sample pack
 
+# [Downlaod the sample pack here](https://github.com/alex-esc/sample-pi/archive/refs/heads/main.zip)
+
+The pack includes:
+- Ambient sounds
+- Synth bass samples tuned in C
+- Drum loops and breaks
+- Drum one-shots (kicks, snares, cymbals, toms, tablas, electric percussion, glitch percussion, regular percussion, robotic percussion and miscellaneous percussion)
+- A few guitar samples
+- A few sound effects (labeled misc)
+- White and pink noise loops (just because)
+- Vinyl noises and scratches
+- A ton of one cycle synthesizer waveforms made by Kristoffer Ekstrand AKA Adventure Kid
+
 ---
 
 ## Credits
