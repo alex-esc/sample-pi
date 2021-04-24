@@ -2,7 +2,7 @@
 
 The sounds of the Sonic Pi software on a sample pack
 
-# [Downlaod the sample pack here](https://github.com/alex-esc/sample-pi/archive/refs/heads/main.zip)
+# [Download the sample pack here](https://github.com/alex-esc/sample-pi/archive/refs/heads/main.zip)
 
 The pack includes:
 - Ambient sounds
